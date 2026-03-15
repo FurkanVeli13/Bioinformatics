@@ -1,0 +1,13 @@
+name: bio_pipeline
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - biopython
